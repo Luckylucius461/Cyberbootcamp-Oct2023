@@ -1,0 +1,1 @@
+ sudo brightnessctl --device='input5::scrolllock' set 1
