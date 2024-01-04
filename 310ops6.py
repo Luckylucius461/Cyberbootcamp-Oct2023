@@ -9,5 +9,3 @@ while 1==1:
         break    
     elif R != N:
         print ("try again")
-        
-    
